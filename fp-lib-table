@@ -1,5 +1,4 @@
 (fp_lib_table
   (lib (name MountingHole)(type KiCad)(uri "$(KIPRJMOD)/MountingHole.pretty")(options "")(descr ""))
-  (lib (name GameBoy_old)(type Legacy)(uri "$(KIPRJMOD)/GameBoy/GameBoy.mod")(options "")(descr ""))
   (lib (name GameBoy)(type KiCad)(uri "$(KIPRJMOD)/GameBoy.pretty")(options "")(descr ""))
 )
